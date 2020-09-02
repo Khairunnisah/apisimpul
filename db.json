@@ -1,0 +1,84 @@
+#apisimpuljaringan
+{
+"simpul_provinsi": [
+{
+  "id": 1,
+  "nama_simpul": "Dinas Perpustakaan dan Kearsipan Provinsi Banten"
+}, {
+  "id": 2,
+  "nama_simpul": "Dinas Perpustakaan dan Kearsipan Aceh"
+}, {
+  "id": 3,
+  "nama_simpul": "Dinas Perpustakaan dan Kearsipan Provinsi Sulawesi Tengah"
+}, {
+  "id": 4,
+  "nama_simpul": "Dinas Perpustakaan dan Kearsipan Provinsi Kalimantan Barat"
+}, {
+  "id": 5,
+  "nama_simpul": "Dinas Perpustakaan dan Kearsipan Provinsi Lampung"
+}, {
+  "id": 6,
+  "nama_simpul": "Dinas Perpustakaan dan Kearsipan Daerah Provinsi Jawa Barat"
+}, {
+  "id": 7,
+  "nama_simpul": "Dinas Perpustakaan dan Arsip Daerah Daerah Istimewa Yogyakarta"
+}, {
+  "id": 8,
+  "nama_simpul": "Dinas Kearsipan Provinsi Nusa Tenggara Timur"
+}, {
+  "id": 9,
+  "nama_simpul": "Dinas Perpustakaan dan Kearsipan Provinsi Jawa Tengah"
+}, {
+  "id": 10,
+  "nama_simpul": "Dinas Perpustakaan dan Kearsipan Provinsi Jawa Timur"
+}, {
+  "id": 11,
+  "nama_simpul": "Dinas Perpustakaan dan Kearsipan Provinsi Bali"
+}, {
+  "id": 12,
+  "nama_simpul": "Dinas Perpustakaan dan Kearsipan Provinsi Riau"
+}, {
+  "id": 13,
+  "nama_simpul": "Dinas Perpustakaan dan Kearsipan Provinsi Kepulauan Riau"
+}, {
+  "id": 14,
+  "nama_simpul": "Dinas Kearsipan dan Perpustakaan Provinsi Sumatera Utara"
+}, {
+  "id": 15,
+  "nama_simpul": "Dinas Perpustakaan dan Kearsipan Provinsi Kalimantan Selatan"
+}, {
+  "id": 16,
+  "nama_simpul": "Dinas Perpustakaan dan Kearsipan Provinsi Bengkulu"
+}, {
+  "id": 17,
+  "nama_simpul": "Dinas Perpustakaan dan Kearsipan Provinsi Nusa Tenggara Barat"
+}, {
+  "id": 18,
+  "nama_simpul": "Dinas Perpustakaan dan Kearsipan Provinsi Sumatera Selatan"
+}, {
+  "id": 19,
+  "nama_simpul": "Dinas Kearsipan Provinsi DKI Jakarta"
+}, {
+  "id": 20,
+  "nama_simpul": "Dinas Kearsipan dan Perpustakaan Provinsi Sumatera Barat"
+}, {
+  "id": 21,
+  "nama_simpul": "Dinas Perpustakaan dan Arsip Daerah Provinsi Jambi"
+}, {
+  "id": 22,
+  "nama_simpul": "Dinas Perpustakaan dan Kearsipan Provinsi Sulawesi Selatan"
+}, {
+  "id": 23,
+  "nama_simpul": "Dinas Kearsipan dan Perpustakaan Provinsi Gorontalo"
+}, {
+  "id": 24,
+  "nama_simpul": "Dinas Perpustakaan dan Kearsipan Daerah Provinsi Sulawesi Barat"
+}, {
+  "id": 25,
+  "nama_simpul": "Dinas Perpustakaan dan Arsip Provinsi Kalimantan Tengah"
+}, {
+  "id": 26,
+  "nama_simpul": "Dinas Perpustakaan dan Kearsipan Daerah Provinsi Kalimantan Timur"
+}
+]
+}
