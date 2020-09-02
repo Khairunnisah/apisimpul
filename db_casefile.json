@@ -1,8 +1,8 @@
 {
 "casefile":
 [
-{"id":1,"nama_instansi":"Yodo","tahun":2011,"kategori":"57"},
-{"id":2,"nama_instansi":"Jamia","tahun":2004,"kategori":"Caravan"},
+{"id":1,"nama_instansi":"Arsip Nasional RI","tahun":2015,"kategori":"K/L"},
+{"id":2,"nama_instansi":"PT. Telekomunikasi Indonesia, Tbk","tahun":2015,"kategori":"BUMN"},
 {"id":3,"nama_instansi":"Zooveo","tahun":2004,"kategori":"Bravada"},
 {"id":4,"nama_instansi":"Yacero","tahun":2008,"kategori":"F430"},
 {"id":5,"nama_instansi":"Gigazoom","tahun":1991,"kategori":"Roadmaster"},
